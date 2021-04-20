@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nimas/Sibintech/Second/C_sharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/nimas/Sibintech/Second/SibLines/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/nimas/Sibintech/Second/C_sharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/nimas/Sibintech/Second/SibLines/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/nimas/.nuget/packages/",
-      "outputPath": "/home/nimas/Sibintech/Second/C_sharp/ConsoleApp1/obj/",
+      "outputPath": "/home/nimas/Sibintech/Second/SibLines/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nimas/.nuget/NuGet/NuGet.Config"
